@@ -1,4 +1,4 @@
-# Real Time Object Detection App
+# Real Time Object Detection App for Visually Impaired People
 
 A new Flutter project on Real Time Object Detection App with Speech assistance for visually impaired people using TensorFlow Lite.
 
